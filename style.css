@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+
+}
+
+body {
+    background-color: #faf0ca;
+}
+
+.cup {
+    height: 210px;
+    width: 220px;
+    border: 10;
+}
