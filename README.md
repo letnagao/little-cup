@@ -9,11 +9,13 @@ CSS Project
 [![GitHub watchers](https://img.shields.io/github/watchers/letnagao/little-cup?logo=GitHub)](https://github.com/letnagao/little-cup/watchers)
 ![Maintained](https://img.shields.io/maintenance/yes/9999)
 
-</ul><h2> Preview 🔥</h2>
-<p align="center">
-  <video src="https://user-images.githubusercontent.com/99754900/173212631-f0065d57-06fb-4632-8f66-711fb1368929.mp4" />
-</p>
-
+</ul><h2> Preview ⚡️</h2>
+<table align="center">
+  <tr>
+    <td><video src="https://user-images.githubusercontent.com/99754900/173212631-f0065d57-06fb-4632-8f66-711fb1368929.mp4" width=1280 height=800></td>
+  </tr>
+</table>
+      
 </ul><h2>Technologies Used 🛠️</h2>
 <ul>
 <li>HTML</li>
